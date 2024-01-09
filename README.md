@@ -1,2 +1,2 @@
 # Hidden
-görsellerde steganografi teknikleri (lsb) kullanarak verileri görsel içerisinde gizlemeye olanak sağlayan uygulama
+Görsellerde steganografi teknikleri (lsb) kullanarak verileri görsel içerisinde gizlemeye olanak sağlayan uygulama
